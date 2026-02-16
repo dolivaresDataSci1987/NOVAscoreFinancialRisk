@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/25341715/README.md)
+
 <p align="center">
   <img src="novascore_banner.png" alt="NOVAscore v0.2 Banner" width="100%">
 </p>
